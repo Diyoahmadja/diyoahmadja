@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  Tentang Saya</h3>
+<h3 align="center">Tentang Saya</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="center">🛠️ Skill</h3>
+<h3 align="center">Skill</h3>
 
 ###
 
@@ -36,6 +36,8 @@
 </div>
 
 <div align="center">
+
+### Stats
 
 ![Diyo Ahmadja's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyoahmadja&show_icons=true&theme=midnight-purple)
 
